@@ -315,14 +315,14 @@ export default function App() {
 
               <div className='ml-6 mt-1 mb-5'>
                   <div className='flex mb-1'>
-                    <span className="flex-shrink-0 w-5 h-5 bg-green-50 rounded-full flex items-center justify-center">
+                    <span className="flex-shrink-0 w-5 h-5 rounded-full flex items-center justify-center">
                       <svg className="w-3.5 h-3.5 text-green-500" fill="currentColor" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
                         <circle cx="12" cy="16" r="8" />
                       </svg>
                     </span>
                     <span className="text-gray-700 ml-2">Data engineering & cloud</span>
 
-                    <span className="ml-6 flex-shrink-0 w-5 h-5 bg-green-50 rounded-full flex items-center justify-center">
+                    <span className="ml-6 flex-shrink-0 w-5 h-5  rounded-full flex items-center justify-center">
                       <svg className="w-3.5 h-3.5 text-green-500" fill="currentColor" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
                         <circle cx="12" cy="16" r="8" />
                       </svg>
@@ -330,7 +330,7 @@ export default function App() {
                     <span className="text-gray-700 ml-2">Gen AI LLM Engineering</span>
                   </div>
                   <div className='flex mb-3'>
-                    <span className="flex-shrink-0 w-5 h-5 bg-green-50 rounded-full flex items-center justify-center">
+                    <span className="flex-shrink-0 w-5 h-5  rounded-full flex items-center justify-center">
                       <svg className="w-3.5 h-3.5 text-green-500" fill="currentColor" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
                         <circle cx="12" cy="16" r="8" />
                       </svg>
